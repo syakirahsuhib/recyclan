@@ -1,0 +1,7 @@
+{
+  "name": "RecyClanApp",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
